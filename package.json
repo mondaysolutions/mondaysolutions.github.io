@@ -1,8 +1,8 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "4.0.0-beta.2",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "title": "Monday Solutions Limited",
+    "name": "Monday Solutions Limited",
+    "version": "1.0.0",
+    "description": "Monday Solutions Limited",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "http://www.mondaysolutions.com.hk",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/mondaysolutions/mondaysolutions.github.io",
+        "email": "info@mondaysolutions.com.hk"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Monday Solutions",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Monday Solutions (http://www.mondaysolutions.com.hk)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "ttps://github.com/mondaysolutions/mondaysolutions.github.io.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta.2",
